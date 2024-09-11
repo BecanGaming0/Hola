@@ -71,7 +71,7 @@
       },
       signup() {
         // Handle signup logic here
-        console.log('Signup:', this.signupForm);
+        console.log('Signup comienzo:', this.signupForm);
       }
     }
   };
